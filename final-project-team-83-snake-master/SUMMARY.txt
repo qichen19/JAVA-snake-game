@@ -1,0 +1,25 @@
+CIT 591 FINAL PROJECT TEAM 83
+Snake Game
+
+
+TEAM MEMBERS
+Qi Chen
+Xiaoge Fan
+Yunyang Li
+
+PROJECT DESCRIPTION
+The team decided to indulge the nostalgia and build the classic game Snake.
+
+The game started just like the classic Snake game where a short snake is born in a forest setting. Controled by the user using the arrow keys, the snake turns and advances, eats apples, and gets longer. When the snake hits the boundry or itself, the game is over. 
+
+Additionally, this project contains three more difficulty levels as we challenge the users and ourselves. Complete description of the different levels can be found in README.
+
+Players' score of the round and the highest score are recorded and displayed in the game if the user plays more than one round. 
+
+WHO DID WHAT 
+Qi Chen: game level 1, combine and refactor code, debugging & JUnits tests
+Xiaoge Fan: project design, CRC documentation, game level 2, graphic materials for level 2
+Yunyang Li: GUI (Swing), picture materials, level 0 and level 3 design. README, peer review
+
+LINK TO GITHUB
+https://github.com/UPenn-CIT599/final-project-team-83-snake.git

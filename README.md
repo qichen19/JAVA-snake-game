@@ -1,5 +1,5 @@
 # JAVA-snake-game
-A classic snake game (with cute adorable UI) using JAVA Swing GUI
+A classic snake game (with cute adorable UI) using JAVA Swing GUI. Developed with Yunyang Li and Xiaoge Fan.
 
 ### Game Description
 

@@ -1,4 +1,5 @@
-Welcome to the Java Snake Game, a classic yet enchanting experience with a cute and adorable user interface developed using JAVA Swing GUI. This project was a collaborative effort by Yunyang Li, Xiaoge Fan, and [Your Name].
+## JAVA SNAKE GAME
+Welcome to the Java Snake Game, a classic yet enchanting experience with a cute and adorable user interface developed using JAVA Swing GUI. This project was a collaborative effort by Yunyang Li, Xiaoge Fan, and Qi Chen.
 
 ### Game Description
 The game begins with a warm-up session every time a new program session is initiated. Users control the snake's movement using arrow keys, where input in the opposite direction of the snake's current movement won't trigger a direction change. The newborn baby snake starts with a length of 3, and each apple consumed adds +1 to the score, increasing the snake's body length.

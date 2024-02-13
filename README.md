@@ -1,4 +1,4 @@
-## JAVA Snake Game
+# JAVA Snake Game
 Welcome to the Java Snake Game, a classic yet enchanting experience with a cute and adorable user interface developed using JAVA Swing GUI. This project was a collaborative effort by Yunyang Li, Xiaoge Fan, and Qi Chen.
 
 ## Game Description
